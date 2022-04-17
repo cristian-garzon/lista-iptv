@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF -1, CGNT
+#EXTINF -1 tvg-logo="https://i.ytimg.com/vi/twB_6GV5AM8/maxresdefault.jpg" , CGNT 
 rtmp://192.168.1.38/live/channel3
-#EXTINF -1, RETRO HD
+#EXTINF -1 tvg-logo="https://www.nicepng.com/png/detail/115-1155178_music-png-music-logo-hd-png.png", RETRO HD
 rtmp://192.168.1.38/live/channel4
